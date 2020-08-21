@@ -32,7 +32,7 @@ s.source           = { :git => 'https://github.com/banxi1988/Defaults.git', :tag
 
 s.ios.deployment_target = '8.0'
 
-s.source_files = 'Defaults/Classes/**/*'
+s.source_files = 'Classes/*'
 
 # s.resource_bundles = {
 #   'Defaults' => ['Defaults/Assets/*.png']
